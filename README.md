@@ -51,26 +51,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/krizzn65/krizzn65/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/314hzrcay4wunk2bu6tkmhydns5e">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=314hzrcay4wunk2bu6tkmhydns5e&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
