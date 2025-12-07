@@ -1,4 +1,6 @@
 <h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">I'm Krisna Panca Dewa</h1>
+<h1 align="center">I'm Front-End Developer</h1>
 
 ###
 
