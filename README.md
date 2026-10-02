@@ -32,14 +32,10 @@
 - **[NutriLogic](https://github.com/krizzn65/NutriLogic)** — a health and nutrition monitoring platform for children, Posyandu volunteers, and parents. `React` · `Laravel` · `MySQL`
 - **[Web Property Purchase](https://github.com/krizzn65/Web-property-purchase)** — an independent frontend project built with `React` and `Tailwind CSS`.
 
-## 🏆 GitHub achievements
+## 📊 GitHub status
 
 <p align="center">
-  <a href="https://github.com/krizzn65?achievement=pull-shark&tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-silver-0643f87ac9fd.png" height="96" alt="Pull Shark x3" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/krizzn65?achievement=yolo&tab=achievements"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" height="96" alt="YOLO" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/krizzn65?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" height="96" alt="Quickdraw" /></a>
+  <a href="https://github.com/krizzn65?tab=overview"><img src="https://streak-stats.demolab.com?user=krizzn65&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=12" width="560" alt="GitHub contribution status: total contributions, current streak, and longest streak" /></a>
 </p>
 
 ## 🎮 Contribution arcade
