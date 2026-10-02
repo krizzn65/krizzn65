@@ -43,7 +43,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=krizzn65&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <a href="https://github.com/krizzn65?achievement=pull-shark&tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-silver-0643f87ac9fd.png" height="110" alt="Pull Shark x3" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/krizzn65?achievement=yolo&tab=achievements"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" height="110" alt="YOLO" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/krizzn65?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" height="110" alt="Quickdraw" /></a>
 </div>
 
 ###
