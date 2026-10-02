@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Krisna Panca Dewa</title>
+  <desc id="desc">Frontend developer from Indonesia</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#111b2d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#57d3ff"/>
+      <stop offset="1" stop-color="#53f3b0"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#89b4e1" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="260" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="260" rx="20" fill="url(#grid)"/>
+  <path d="M0 222H840L892 170H1200" fill="none" stroke="url(#accent)" stroke-opacity=".36" stroke-width="2"/>
+  <path d="M0 236H820L872 184H1200" fill="none" stroke="#60d7ff" stroke-opacity=".12" stroke-width="2"/>
+  <rect x="57" y="55" width="7" height="112" rx="3.5" fill="url(#accent)"/>
+  <text x="90" y="89" fill="#71d7fa" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="5">HELLO, I'M</text>
+  <text x="87" y="150" fill="#f7fbff" font-family="Segoe UI, Arial, sans-serif" font-size="50" font-weight="800" letter-spacing="1">KRISNA PANCA DEWA</text>
+  <text x="90" y="186" fill="#a9bfd5" font-family="Segoe UI, Arial, sans-serif" font-size="20" letter-spacing="3">FRONTEND DEVELOPER  ·  INDONESIA</text>
+
+  <rect x="925" y="47" width="221" height="147" rx="16" fill="#18263b" stroke="#416581" stroke-width="2"/>
+  <path d="M925 81H1146" stroke="#416581" stroke-width="2"/>
+  <circle cx="947" cy="64" r="5" fill="#ff6b86"/>
+  <circle cx="965" cy="64" r="5" fill="#ffcf5d"/>
+  <circle cx="983" cy="64" r="5" fill="#53e2ad"/>
+  <path d="M966 111L947 128L966 145M1105 111L1124 128L1105 145" fill="none" stroke="#57d3ff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M1030 104L1012 153" stroke="#53f3b0" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="1061" cy="128" r="13" fill="#ffcf5d"/>
+  <path d="M1061 128L1073 121A13 13 0 0 1 1073 135Z" fill="#18263b"/>
+  <circle cx="1060" cy="119" r="1.8" fill="#18263b"/>
+  <circle cx="1088" cy="128" r="3" fill="#ffcf5d"/>
+  <circle cx="1098" cy="128" r="3" fill="#ffcf5d"/>
+</svg>

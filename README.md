@@ -1,60 +1,55 @@
-<h1 align="center">Hey 👋What's Up?</h1>
-<h1 align="center">I'm Front-End Developer</h1>
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Krisna Panca Dewa — Frontend Developer from Indonesia" width="100%" />
+</p>
 
-###
+<p align="center">
+  I build clean, responsive web experiences with a focus on the details that make them feel good to use.
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="60" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/krisna-panca-dewa-5a6b8a295"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/krizndwa?igsh=aHU2cjFsazAwZmQ4"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
-###
+## ✨ About me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/krisna-panca-dewa-5a6b8a295" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/krizndwa?igsh=aHU2cjFsazAwZmQ4" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
+- 📍 Based in Indonesia · State Polytechnic of Jember
+- 🧩 Building interfaces with React, Next.js, TypeScript, and Tailwind CSS
+- 🔧 Exploring the full stack with Laravel, PHP, MySQL, and Docker
 
-###
+## 🛠️ I code with
 
-<div align="center">
-  <a href="https://github.com/krizzn65?achievement=pull-shark&tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-silver-0643f87ac9fd.png" height="110" alt="Pull Shark x3" /></a>
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind&theme=dark" alt="TypeScript, JavaScript, React, Next.js, and Tailwind CSS" />
+
+**Backend & tools**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,nestjs,python,docker,figma&theme=dark" alt="PHP, Laravel, MySQL, NestJS, Python, Docker, and Figma" />
+
+## 🚀 Featured work
+
+- **[NutriLogic](https://github.com/krizzn65/NutriLogic)** — a health and nutrition monitoring platform for children, Posyandu volunteers, and parents. `React` · `Laravel` · `MySQL`
+- **[Web Property Purchase](https://github.com/krizzn65/Web-property-purchase)** — an independent frontend project built with `React` and `Tailwind CSS`.
+
+## 🏆 GitHub achievements
+
+<p align="center">
+  <a href="https://github.com/krizzn65?achievement=pull-shark&tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-silver-0643f87ac9fd.png" height="96" alt="Pull Shark x3" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/krizzn65?achievement=yolo&tab=achievements"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" height="110" alt="YOLO" /></a>
+  <a href="https://github.com/krizzn65?achievement=yolo&tab=achievements"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" height="96" alt="YOLO" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/krizzn65?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" height="110" alt="Quickdraw" /></a>
-</div>
+  <a href="https://github.com/krizzn65?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" height="96" alt="Quickdraw" /></a>
+</p>
 
-###
+## 🎮 Contribution arcade
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krizzn65/krizzn65/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krizzn65/krizzn65/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/krizzn65/krizzn65/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krizzn65/krizzn65/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krizzn65/krizzn65/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/krizzn65/krizzn65/output/pacman-contribution-graph.svg" width="100%" />
+  </picture>
+</p>
 
+<p align="center"><sub>Layout made with inspiration from <a href="https://github.com/maurodesouza/profile-readme-generator">Profile Readme Generator</a>.</sub></p>
