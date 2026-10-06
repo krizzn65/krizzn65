@@ -29,7 +29,7 @@
 
 ### ⚙️ Backend & tools
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,nestjs,python,docker,git,figma&perline=4&theme=dark" alt="PHP, Laravel, MySQL, NestJS, Python, Docker, Git, Figma" />
+<img src="https://skillicons.dev/icons?i=php,laravel,postgres,nestjs,python,docker&perline=4&theme=dark" alt="PHP, Laravel, PostgreSQL, NestJS, Python, Docker" />
 
 </td>
 <td valign="top" width="50%"><img src="./stats.svg" width="420" alt="Krisna's GitHub streak and contribution stats — auto-refreshed daily" /></td>
