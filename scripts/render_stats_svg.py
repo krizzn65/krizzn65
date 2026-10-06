@@ -32,13 +32,13 @@ INK = "#e6edf3"
 GREEN = "#39d353"
 BAR = "#26a641"
 
-W, H = 840, 880                      # == krisna-ascii.svg canvas
+W, H = 840, 1180
 PAD = 20
 TITLEBAR_H = 30
 COLS, ROWS = 2, 3
 GAP = 16
 TILE_W = (W - PAD * 2 - GAP * (COLS - 1)) / COLS
-TILE_H = 150
+TILE_H = 190
 TILES_TOP = TITLEBAR_H + PAD + 4
 CHART_TOP = TILES_TOP + ROWS * TILE_H + (ROWS - 1) * GAP + GAP
 
