@@ -35,14 +35,8 @@ jobs:
       - name: Render streak / numbers card
         run: python scripts/render_stats_svg.py
 
-      - name: Render ASCII portrait from GitHub avatar
-        run: |
-          curl -sL "https://github.com/krizzn65.png?size=800" -o source-photo.png
-          python scripts/prep_photo.py source-photo.png source-prepped.png
-          python scripts/make_ascii_svg.py source-prepped.png krisna-ascii.svg
-
       - name: Commit updated art
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg stats.svg krisna-ascii.svg"
+          file_pattern: "data/contributions.json contrib-heatmap.svg stats.svg"

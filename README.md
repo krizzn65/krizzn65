@@ -12,12 +12,7 @@
 
 <h3><code>krisna@github ~ $ whoami</code></h3>
 
-<table>
-<tr>
-<td valign="top"><img src="./krisna-ascii.svg" width="420" alt="Krisna Panca Dewa — ASCII portrait" /></td>
-<td valign="top"><img src="./stats.svg" width="420" alt="Krisna's GitHub streak and contribution stats — auto-refreshed daily" /></td>
-</tr>
-</table>
+<img src="./stats.svg" width="420" alt="Krisna's GitHub streak and contribution stats — auto-refreshed daily" />
 
 <br>
 <br>
