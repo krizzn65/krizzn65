@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=3FB950&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Krisna+Panca+Dewa+%F0%9F%91%8B;Frontend+Developer+from+Indonesia;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Laravel" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=3FB950&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Krisna+Panca+Dewa+%F0%9F%91%8B;Frontend+Developer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Laravel" alt="Typing intro" />
 
 <br>
 
@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About me
 
-- 📍 Indonesia · State Polytechnic of Jember
+- 📍 State Polytechnic of Jember
 - 🧩 Building clean, responsive web interfaces
 - 🔧 Exploring the full stack with Laravel & Docker
 
@@ -37,7 +37,7 @@
 
 <br>
 
-<p><b>Frontend Developer · Indonesia</b></p>
+<p><b>Frontend Developer</b></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-krisna--panca--dewa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krisna-panca-dewa-5a6b8a295)
 [![Instagram](https://img.shields.io/badge/Instagram-krizndwa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krizndwa)
