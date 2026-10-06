@@ -10,7 +10,7 @@
 <br>
 
 
-<img src="./stats.svg" width="420" alt="Krisna's GitHub streak and contribution stats — auto-refreshed daily" />
+<img src="./stats.svg" width="100%" alt="Krisna's GitHub streak and contribution stats — auto-refreshed daily" />
 
 <br>
 <br>
