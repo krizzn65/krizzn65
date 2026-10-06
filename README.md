@@ -1,51 +1,34 @@
-<p align="center">
-  <img src="./assets/profile-banner.svg" alt="Krisna Panca Dewa — Frontend Developer from Indonesia" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  I build clean, responsive web experiences with a focus on the details that make them feel good to use.
-</p>
+<!-- animated contribution graph: real data, boxes reveal cell by cell
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/krisna-panca-dewa-5a6b8a295"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/krizndwa?igsh=aHU2cjFsazAwZmQ4"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
+<h3><code>krisna@github ~ $ ./contributions.sh</code></h3>
 
-## ✨ About me
+<img src="./contrib-heatmap.svg" width="860" alt="Krisna's GitHub contribution graph — auto-refreshed daily" />
 
-- 📍 Based in Indonesia · State Polytechnic of Jember
-- 🧩 Building interfaces with React, Next.js, TypeScript, and Tailwind CSS
-- 🔧 Exploring the full stack with Laravel, PHP, MySQL, and Docker
+<br>
+<br>
 
-## 🛠️ I code with
+<h3><code>krisna@github ~ $ whoami</code></h3>
 
-**Frontend**
+<table>
+<tr>
+<td valign="top"><img src="./krisna-ascii.svg" width="420" alt="Krisna Panca Dewa — ASCII portrait" /></td>
+<td valign="top"><img src="./stats.svg" width="420" alt="Krisna's GitHub streak and contribution stats — auto-refreshed daily" /></td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind&theme=dark" alt="TypeScript, JavaScript, React, Next.js, and Tailwind CSS" />
+<br>
+<br>
 
-**Backend & tools**
+<h3><code>krisna@github ~ $ ./links.sh</code></h3>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,nestjs,python,docker,figma&theme=dark" alt="PHP, Laravel, MySQL, NestJS, Python, Docker, and Figma" />
+<p><b>Frontend Developer · Indonesia</b></p>
 
-## 🚀 Featured work
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-krisna--panca--dewa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krisna-panca-dewa-5a6b8a295)
+[![Instagram](https://img.shields.io/badge/Instagram-krizndwa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krizndwa)
 
-- **[NutriLogic](https://github.com/krizzn65/NutriLogic)** — a health and nutrition monitoring platform for children, Posyandu volunteers, and parents. `React` · `Laravel` · `MySQL`
-- **[Web Property Purchase](https://github.com/krizzn65/Web-property-purchase)** — an independent frontend project built with `React` and `Tailwind CSS`.
+<br>
 
-## 📊 GitHub status
-
-<p align="center">
-  <a href="https://github.com/krizzn65?tab=overview"><img src="https://streak-stats.demolab.com?user=krizzn65&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=12" width="560" alt="GitHub contribution status: total contributions, current streak, and longest streak" /></a>
-</p>
-
-## 🎮 Contribution arcade
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krizzn65/krizzn65/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krizzn65/krizzn65/output/pacman-contribution-graph.svg" />
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/krizzn65/krizzn65/output/pacman-contribution-graph.svg" width="100%" />
-  </picture>
-</p>
-
-<p align="center"><sub>Layout made with inspiration from <a href="https://github.com/maurodesouza/profile-readme-generator">Profile Readme Generator</a>.</sub></p>
+</div>
