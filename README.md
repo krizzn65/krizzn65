@@ -1,20 +1,41 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=3FB950&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Krisna+Panca+Dewa+%F0%9F%91%8B;Frontend+Developer+from+Indonesia;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Laravel" alt="Typing intro" />
+
+<br>
+
 <!-- animated contribution graph: real data, boxes reveal cell by cell
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
-
 
 <img src="./contrib-heatmap.svg" width="860" alt="Krisna's GitHub contribution graph — auto-refreshed daily" />
 
 <br>
 <br>
 
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<img src="./stats.svg" width="100%" alt="Krisna's GitHub streak and contribution stats — auto-refreshed daily" />
+### 👨‍💻 About me
+
+- 📍 Indonesia · State Polytechnic of Jember
+- 🧩 Building clean, responsive web interfaces
+- 🔧 Exploring the full stack with Laravel & Docker
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&perline=4&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, HTML, CSS" />
+
+### ⚙️ Backend & tools
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,nestjs,python,docker,git,figma&perline=4&theme=dark" alt="PHP, Laravel, MySQL, NestJS, Python, Docker, Git, Figma" />
+
+</td>
+<td valign="top" width="50%"><img src="./stats.svg" width="420" alt="Krisna's GitHub streak and contribution stats — auto-refreshed daily" /></td>
+</tr>
+</table>
 
 <br>
-<br>
-
 
 <p><b>Frontend Developer · Indonesia</b></p>
 
