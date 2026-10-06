@@ -82,7 +82,7 @@ y = TITLEBAR_H + 70
 
 def line(text, x, y, size, fill, weight="normal"):
     global t
-    parts.append(f'<text class="t" style="animation-delay:{t:.2f}s" x="{x}" y="{y}" '
+    parts.append(f'<text class="t" xml:space="preserve" style="animation-delay:{t:.2f}s" x="{x}" y="{y}" '
                  f'fill="{fill}" font-size="{size}" font-weight="{weight}">{text}</text>')
     t += STEP
 
