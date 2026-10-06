@@ -18,9 +18,10 @@
 
 ### 👨‍💻 About me
 
+- 🎨 Frontend developer who turns designs into pixel-perfect, responsive UIs
+- ⚛️ Crafting fast, modern apps with React, Next.js, TypeScript & Tailwind CSS
+- ✨ Obsessed with smooth animations, clean components, and great UX
 - 📍 State Polytechnic of Jember
-- 🧩 Building clean, responsive web interfaces
-- 🔧 Exploring the full stack with Laravel & Docker
 
 ### 🎨 Frontend
 
