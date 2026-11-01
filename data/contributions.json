@@ -1,21 +1,21 @@
 {
   "username": "krizzn65",
-  "generated_at": "2026-10-31T06:24:36Z",
+  "generated_at": "2026-11-01T06:26:26Z",
   "range": {
-    "start": "2025-10-26",
-    "end": "2026-10-31"
+    "start": "2025-11-02",
+    "end": "2026-11-01"
   },
-  "total_contributions": 9245,
-  "active_days": 368,
-  "avg_per_active_day": 25.1,
+  "total_contributions": 9093,
+  "active_days": 361,
+  "avg_per_active_day": 25.2,
   "current_streak": {
     "length": 26,
     "start": "2026-10-06",
     "end": "2026-10-31"
   },
   "longest_streak": {
-    "length": 342,
-    "start": "2025-10-26",
+    "length": 335,
+    "start": "2025-11-02",
     "end": "2026-10-02"
   },
   "best_day": {
@@ -24,12 +24,8 @@
   },
   "monthly": [
     {
-      "month": "2025-10",
-      "total": 127
-    },
-    {
       "month": "2025-11",
-      "total": 755
+      "total": 728
     },
     {
       "month": "2025-12",
@@ -73,45 +69,14 @@
     },
     {
       "month": "2026-10",
-      "total": 286
+      "total": 288
+    },
+    {
+      "month": "2026-11",
+      "total": 0
     }
   ],
   "days": [
-    {
-      "date": "2025-10-26",
-      "count": 23,
-      "level": 2
-    },
-    {
-      "date": "2025-10-27",
-      "count": 21,
-      "level": 2
-    },
-    {
-      "date": "2025-10-28",
-      "count": 25,
-      "level": 2
-    },
-    {
-      "date": "2025-10-29",
-      "count": 17,
-      "level": 1
-    },
-    {
-      "date": "2025-10-30",
-      "count": 20,
-      "level": 2
-    },
-    {
-      "date": "2025-10-31",
-      "count": 21,
-      "level": 2
-    },
-    {
-      "date": "2025-11-01",
-      "count": 27,
-      "level": 2
-    },
     {
       "date": "2025-11-02",
       "count": 25,
@@ -1929,8 +1894,13 @@
     },
     {
       "date": "2026-10-31",
-      "count": 11,
+      "count": 13,
       "level": 1
+    },
+    {
+      "date": "2026-11-01",
+      "count": 0,
+      "level": 0
     }
   ]
 }
